@@ -11,17 +11,26 @@ The data is obtained from a Kaggle dataset, [Medical Cost Personal Dataset](http
 ### Dataset Breakdown
 
 #### Columns
-
 - age: age of primary beneficiary
-
 - sex: insurance contractor gender, female, male
-
 - bmi: Body mass index, using the ratio of height to weight, ideally 18.5 to 24.9
-
 - children: Number of children covered by health insurance / Number of dependents
-
 - smoker: Smoking
-
 - region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
-
 - charges: Individual medical costs billed by health insurance
+
+#### Methods Used
+- Descriptive Statistics
+- Inferential Statistics
+- Predictive Modeling
+- Linear Regression
+- Data Visualization
+
+### Technologies
+- Python3
+- Numpyu
+- Pandas
+- Scipy
+- Scikit-learn
+- Jupyter Lab
+- Pipenv
