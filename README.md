@@ -43,3 +43,29 @@ The data is obtained from a Kaggle dataset, [Medical Cost Personal Dataset](http
 5. Use command `pipenv install Pipfile` to install Python Dependencies
 6. Install Jupyter lab (for help see this [installation guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 7. Use command `jupyter lab` to start lab
+
+### Contributing
+
+:newspaper: Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+#### Versioning
+
+:card_index: We use [Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03) for versioning.
+
+#### Authors
+
+* :ocean: **Normandy14** - *Initial work* - [Github Account](https://github.com/Normandy14)
+
+#### License
+
+:newspaper: This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details.
+
+<!--
+
+#### Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
+-->
