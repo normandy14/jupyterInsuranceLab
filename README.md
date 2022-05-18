@@ -26,7 +26,7 @@ The data is obtained from a Kaggle dataset, [Medical Cost Personal Dataset](http
 - Linear Regression
 - Data Visualization
 
-### Technologies
+#### Technologies
 - Python3
 - Numpyu
 - Pandas
