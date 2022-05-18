@@ -1,5 +1,7 @@
 # Insurance Charges Notebook
 
+![Bins](insuranceHistogram.png)
+
 ## Project Objective
 The purpose of this project to practice data analytics skills. Programming takes most of my time, but after building several web applications with Python, the learning time to learn Pandas, Matplotlib, Scipy, Scikit-learn was relatively short.
 
