@@ -34,3 +34,12 @@ The data is obtained from a Kaggle dataset, [Medical Cost Personal Dataset](http
 - Scikit-learn
 - Jupyter Lab
 - Pipenv
+
+## Getting Started
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Use command `cd *`, where * is folder name of cloned repo, to enter this repo
+3. Raw Data is being kept [here](insurance.csv) within this repo.
+4. Use command `pipenv shell` to enter the Python virtual enviroment
+5. Use command `pipenv install Pipfile` to install Python Dependencies
+6. Install Jupyter lab (for help see this [installation guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+7. Use command `jupyter lab` to start lab
