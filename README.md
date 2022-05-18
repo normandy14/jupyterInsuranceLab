@@ -3,7 +3,7 @@
 ## Project Objective
 The purpose of this project to practice data analytics skills. Programming takes most of my time, but after building several web applications with Python, the learning time to learn Pandas, Matplotlib, Scipy, Scikit-learn was relatively short.
 
-This Jupyter lab notebook focuses on EDA, exploratory data analsys; as well as OLS (Ordinary Least Squares), also known as linear regression, at the end of the notebook.
+This Jupyter lab notebook focuses on EDA, exploratory data analysis, as well as linear regression.
 
 ## Kaggle Dataset
 The data is obtained from a Kaggle dataset, [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
