@@ -43,6 +43,8 @@ The data is obtained from a Kaggle dataset, [Medical Cost Personal Dataset](http
 5. Use command `pipenv install Pipfile` to install Python Dependencies
 6. Install Jupyter lab (for help see this [installation guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 7. Use command `jupyter lab` to start lab
+8. Open/Wait for lab to load in browser
+9. Open `insurance.pynb` in browser to load lab
 
 ### Contributing
 
